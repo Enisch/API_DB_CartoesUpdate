@@ -1,0 +1,17 @@
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\ContextDb.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\ContextDb.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\bin\Debug\net8.0\InfraData.Domain.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Repositories\obj\Debug\net8.0\ref\Repositories.dll

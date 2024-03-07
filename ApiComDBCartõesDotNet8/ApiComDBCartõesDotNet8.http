@@ -1,0 +1,6 @@
+@ApiComDBCartõesDotNet8_HostAddress = http://localhost:5269
+
+GET {{ApiComDBCartõesDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

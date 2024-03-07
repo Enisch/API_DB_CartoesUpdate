@@ -1,0 +1,12 @@
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\bin\Debug\net8.0\InfraData.Domain.deps.json
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\bin\Debug\net8.0\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\bin\Debug\net8.0\InfraData.Domain.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\refint\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\ref\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.csproj.AssemblyReference.cache

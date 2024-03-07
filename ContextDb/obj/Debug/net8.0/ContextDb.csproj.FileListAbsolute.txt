@@ -1,0 +1,17 @@
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\ContextDb.deps.json
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\ContextDb.runtimeconfig.json
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\ContextDb.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\ContextDb.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\InfraData.Domain.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\bin\Debug\net8.0\InfraData.Domain.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.csproj.CopyComplete
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\refint\ContextDb.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.pdb
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.genruntimeconfig.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ref\ContextDb.dll
