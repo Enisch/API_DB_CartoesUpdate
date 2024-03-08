@@ -8,9 +8,10 @@ namespace InfraData.Domain.Interfaces
 {
     public interface IConta
     {
-        public Task<bool> PaymentFromDebit(double Value,Usuario usuario);
-        public Task<double> VerifyBalance(Usuario usuario);
+        public Task<bool> PaymentFromDebit(double Value,int id);
+        public Task<double> VerifyBalance(int id);
 
+        public Task RaiseBalance(int id,double value);
 
     }
 }

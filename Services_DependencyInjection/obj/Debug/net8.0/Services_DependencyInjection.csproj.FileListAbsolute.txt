@@ -19,3 +19,4 @@ D:\Programas Visual Studio\API's\API_comDB_Cartões\Services_DependencyInjection
 D:\Programas Visual Studio\API's\API_comDB_Cartões\Services_DependencyInjection\obj\Debug\net8.0\Services_DependencyInjection.pdb
 D:\Programas Visual Studio\API's\API_comDB_Cartões\Services_DependencyInjection\obj\Debug\net8.0\Services_DependencyInjection.genruntimeconfig.cache
 D:\Programas Visual Studio\API's\API_comDB_Cartões\Services_DependencyInjection\obj\Debug\net8.0\ref\Services_DependencyInjection.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\Services_DependencyInjection\obj\Debug\net8.0\Services_DependencyInjection.sourcelink.json

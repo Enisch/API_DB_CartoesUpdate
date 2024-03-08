@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContextDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1bd0ff84f19a6e5e86172503c4671d595db258")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContextDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContextDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

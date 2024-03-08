@@ -119,3 +119,4 @@ D:\Programas Visual Studio\API's\API_comDB_Cartões\ApiComDBCartõesDotNet8\bin\
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ApiComDBCartõesDotNet8\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ApiComDBCartõesDotNet8\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ApiComDBCartõesDotNet8\bin\Debug\net8.0\AutoMapper.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ApiComDBCartõesDotNet8\obj\Debug\net8.0\ApiComDBCartõesDotNet8.sourcelink.json

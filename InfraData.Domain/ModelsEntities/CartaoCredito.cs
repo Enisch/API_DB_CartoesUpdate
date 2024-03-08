@@ -24,6 +24,8 @@ namespace InfraData.Domain
 
         [Column("DateInvoiceClosing")]
         public DateOnly DateInvoiceClosing { get; set;}
+        [Column("LimiteDisponível")]
+        public double LimiteDisponível { get; set;}
 
         [ForeignKey("Fk_usuarioCredito")]
         [Column("idUsuarioCredito")]

@@ -30,7 +30,7 @@ namespace ApiComDBCartõesDotNet8.Controllers
         }
 
         [Authorize]
-        [HttpGet("Find User By Id{id}")]
+        [HttpGet("Find User By {id}")]
         public async Task<ActionResult<IEnumerable<Usuario>>> GetByID(int id) 
         {
             var UserID = await dtoUserS_.FindByIdUserDto(id);

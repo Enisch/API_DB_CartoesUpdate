@@ -23,7 +23,7 @@ namespace InfraData.Domain
 
             [Column("usuarioSenha")]
             [Required(ErrorMessage ="Digite uma senha valida."),NotNull]
-            public string? SenhaUsuario { get; set; }//Poderia ser em bits, porém preferi adicionar no formato string como forma de visualização.
+            public string? SenhaUsuario { get; set; }//Poderia ser em byte[], porém preferi adicionar no formato string como forma de visualização.
 
              [Column("usuarioEmail")]
              [Required(ErrorMessage ="Digite um Email válido."),NotNull]

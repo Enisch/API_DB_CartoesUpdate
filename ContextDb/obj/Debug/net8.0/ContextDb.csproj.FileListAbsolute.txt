@@ -15,3 +15,4 @@ D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\r
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.pdb
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.genruntimeconfig.cache
 D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ref\ContextDb.dll
+D:\Programas Visual Studio\API's\API_comDB_Cartões\ContextDb\obj\Debug\net8.0\ContextDb.sourcelink.json

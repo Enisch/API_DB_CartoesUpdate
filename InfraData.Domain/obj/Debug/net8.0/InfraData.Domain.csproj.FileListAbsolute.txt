@@ -10,3 +10,4 @@ D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\n
 D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.pdb
 D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\ref\InfraData.Domain.dll
 D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\API_comDB_Cartões\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.sourcelink.json
